@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="http://dharmesh.vercel.app" target="_blank">sDharmesh.tech</a>
+  <a href="dharmeshportfolio.vercel.app" target="_blank">sDharmesh.tech</a>
 </h2>
 
 <br/>
@@ -24,7 +24,7 @@
 
 ## Built With
 
-My personal portfolio <a href="http://dharmesh.vercel.app" target="_blank">Dharmesh.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="dharmeshportfolio.vercel.app" target="_blank">Dharmesh.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 

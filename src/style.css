@@ -145,6 +145,14 @@ button:focus {
 }
 
 @media (max-width: 767px) {
+  .capp{
+    flex-direction: column;
+
+  }
+
+  .capp div{
+    margin: 4px;
+  }
   .navbar {
     padding: 1rem 2rem !important;
     font-size: 1.4rem !important;
@@ -159,8 +167,8 @@ button:focus {
 }
 
 .logo {
-  height: 1.4em !important;
-  width: 2.5em !important;
+  height: 4.4em !important;
+  width: 9.5em !important;
 }
 
 .navbar-nav .nav-link {

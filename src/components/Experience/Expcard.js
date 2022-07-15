@@ -10,7 +10,7 @@ function Expcard(props) {
      
       <Card.Body>
         <Card.Title>
-        <div class="d-flex justify-content-between">
+        <div class="capp d-flex justify-content-between">
         <div class="purple"><strong>{props.title}</strong></div>
         <div class="purple"><strong>
         {props.com}</strong></div>
@@ -24,7 +24,7 @@ function Expcard(props) {
         <Card.Text style={{ textAlign: "justify" }}>
           {props.description}
         </Card.Text>
-        <Button variant="primary" href={props.ghLink} target="_blank">
+        <Button variant="primary" className="btn btn-primary mb-4" href={props.ghLink} target="_blank">
           <BsLinkedin /> &nbsp;
           {props.isBlog ? "Blog" : "Linkedin"}
         </Button>

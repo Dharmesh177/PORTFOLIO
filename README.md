@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="dharmeshportfolio.vercel.app" target="_blank">sDharmesh.tech</a>
+  <a href="dharmeshportfolio.vercel.app" target="_blank">Dharmesh.tech</a>
 </h2>
 
 <br/>
